@@ -1,3 +1,9 @@
+# Codelab 
+The codelab for this repository is 
+https://engdocs.dev/codelab/FHQPWEGGWSPT/how-to-deploy-nextjs-app-to-kubernetes-cluster-in-gcp-with-custom-domain
+
+# Application
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
