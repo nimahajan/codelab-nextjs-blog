@@ -1,5 +1,7 @@
 # Codelab 
-The codelab for this repository is 
+
+This is code for below codelab
+
 [![View Codelab](https://firebasestorage.googleapis.com/v0/b/kodelab-5238e.appspot.com/o/public%2Fkodelab%2Fdemo%2Fcodelab_ss_1.png?alt=media&token=e5c8764f-f35c-4cd4-8d1a-f920caad38f7)](https://engdocs.dev/codelab/FHQPWEGGWSPT/how-to-deploy-nextjs-app-to-kubernetes-cluster-in-gcp-with-custom-domain)
 
 
